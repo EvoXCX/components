@@ -1,0 +1,10 @@
+Name: dxvk-2.0-1-7644776
+Provider: doitsujin
+Maintainer: doitsujin
+Channel: unstable
+File:
+- file_name: dxvk-2.0-1-7644776.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/dxvk-2.0-1-7644776/dxvk-2.0-1-7644776.tar.gz
+  file_checksum: 63f8fae2db8393e2ae58c74ca616ef62
+  file_size: 7804667
+  rename: dxvk-2.0-1-7644776.tar.gz
