@@ -1,0 +1,10 @@
+Name: dxvk-nvapi-v0.5.4-1-d79e571
+Provider: jp7677
+Maintainer: jp7677
+Channel: unstable
+File:
+- file_name: dxvk-nvapi-v0.5.4-1-d79e571.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/dxvk-nvapi-v0.5.4-1-d79e571/dxvk-nvapi-v0.5.4-1-d79e571.tar.gz
+  file_checksum: 61e23cf5b46407801d269bc922d30713
+  file_size: 2362219
+  rename: dxvk-nvapi-v0.5.4-1-d79e571.tar.gz
