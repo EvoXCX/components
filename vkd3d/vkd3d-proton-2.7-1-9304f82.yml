@@ -1,0 +1,10 @@
+Name: vkd3d-proton-2.7-1-9304f82
+Provider: HansKristian-Work
+Maintainer: HansKristian-Work
+Channel: unstable
+File:
+- file_name: vkd3d-proton-2.7-1-9304f82.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-2.7-1-9304f82/vkd3d-proton-2.7-1-9304f82.tar.gz
+  file_checksum: 29a533e005761b39f1a437689914477b
+  file_size: 2371502
+  rename: vkd3d-proton-2.7-1-9304f82.tar.gz
