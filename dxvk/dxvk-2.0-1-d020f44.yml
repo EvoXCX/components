@@ -1,0 +1,10 @@
+Name: dxvk-2.0-1-d020f44
+Provider: doitsujin
+Maintainer: doitsujin
+Channel: unstable
+File:
+- file_name: dxvk-2.0-1-d020f44.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/dxvk-2.0-1-d020f44/dxvk-2.0-1-d020f44.tar.gz
+  file_checksum: 688443b2a2a78a9f258649a921bbc235
+  file_size: 7835192
+  rename: dxvk-2.0-1-d020f44.tar.gz
