@@ -1,0 +1,10 @@
+Name: vkd3d-proton-2.8-1-08909d9
+Provider: HansKristian-Work
+Maintainer: HansKristian-Work
+Channel: unstable
+File:
+- file_name: vkd3d-proton-2.8-1-08909d9.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-2.8-1-08909d9/vkd3d-proton-2.8-1-08909d9.tar.gz
+  file_checksum: f5c72456aa288ca72a79da63443d6957
+  file_size: 2360070
+  rename: vkd3d-proton-2.8-1-08909d9.tar.gz
