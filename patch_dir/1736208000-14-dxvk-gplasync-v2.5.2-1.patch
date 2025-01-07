@@ -1,0 +1,28 @@
+diff --git a/dxvk/dxvk-gplasync-v2.5.2-1.yml b/dxvk/dxvk-gplasync-v2.5.2-1.yml
+new file mode 100644
+index 0000000..fde289c
+--- /dev/null
++++ b/dxvk/dxvk-gplasync-v2.5.2-1.yml
+@@ -0,0 +1,10 @@
++Name: dxvk-gplasync-v2.5.2-1
++Provider: Ph42oN
++Maintainer: CI
++Channel: stable
++File:
++- file_name: dxvk-gplasync-v2.5.2-1.tar.gz?ref_type=heads
++  url: https://gitlab.com/Ph42oN/dxvk-gplasync/-/raw/main/releases/dxvk-gplasync-v2.5.2-1.tar.gz?ref_type=heads
++  file_checksum: a226af14893287898042357bc0a55d5b
++  file_size: 9797817
++  rename: dxvk-gplasync-v2.5.2-1.tar.gz?ref_type=heads
+diff --git a/input_files/15-dxvk-async.yml b/input_files/15-dxvk-async.yml
+index e32949f..58d0dcf 100644
+--- a/input_files/15-dxvk-async.yml
++++ b/input_files/15-dxvk-async.yml
+@@ -1,3 +1,7 @@
++dxvk-gplasync-v2.5.2-1:
++  Category: dxvk
++  Channel: stable
++  Date: '1736171000'
+ dxvk-gplasync-v2.5.1-2:
+   Category: dxvk
+   Channel: stable
