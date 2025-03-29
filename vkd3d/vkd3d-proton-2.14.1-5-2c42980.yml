@@ -1,0 +1,10 @@
+Name: vkd3d-proton-2.14.1-5-2c42980
+Provider: HansKristian-Work
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: vkd3d-proton-2.14.1-5-2c42980.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-2.14.1-5-2c42980/vkd3d-proton-2.14.1-5-2c42980.tar.gz
+  file_checksum: 451e0d238d384096244cc769e5885b4d
+  file_size: 3063821
+  rename: vkd3d-proton-2.14.1-5-2c42980.tar.gz
