@@ -1,0 +1,10 @@
+Name: dxvk-2.6-1-732b166
+Provider: doitsujin
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: dxvk-2.6-1-732b166.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/dxvk-2.6-1-732b166/dxvk-2.6-1-732b166.tar.gz
+  file_checksum: 938d05356c94fd3f746754dcce20e98c
+  file_size: 10307472
+  rename: dxvk-2.6-1-732b166.tar.gz
