@@ -1,0 +1,33 @@
+diff --git a/input_files/10-GE-Proton.yml b/input_files/10-GE-Proton.yml
+index cc96e01..77fda43 100644
+--- a/input_files/10-GE-Proton.yml
++++ b/input_files/10-GE-Proton.yml
+@@ -1,3 +1,8 @@
++ge-proton10-9:
++  Category: runners
++  Sub-category: proton
++  Channel: stable
++  Date: '1752268535'
+ ge-proton10-8:
+   Category: runners
+   Sub-category: proton
+diff --git a/runners/proton/ge-proton10-9.yml b/runners/proton/ge-proton10-9.yml
+new file mode 100644
+index 0000000..82c84e8
+--- /dev/null
++++ b/runners/proton/ge-proton10-9.yml
+@@ -0,0 +1,14 @@
++Name: ge-proton10-9
++Provider: GloriousEggroll
++Maintainer: CI
++Channel: stable
++File:
++- file_name: GE-Proton10-9.tar.gz
++  url: https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-9/GE-Proton10-9.tar.gz
++  file_checksum: 150607fd58f853430de4c57438a06f34
++  file_size: 502252756
++  rename: GE-Proton10-9.tar.gz
++Post:
++- action: rename
++  source: GE-Proton10-9
++  dest: ge-proton10-9
