@@ -1,0 +1,10 @@
+Name: dxvk-2.7-3-402c290
+Provider: doitsujin
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: dxvk-2.7-3-402c290.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/dxvk-2.7-3-402c290/dxvk-2.7-3-402c290.tar.gz
+  file_checksum: 819fa9107735efbc65eb89e5dfd0fa9e
+  file_size: 10307561
+  rename: dxvk-2.7-3-402c290.tar.gz
