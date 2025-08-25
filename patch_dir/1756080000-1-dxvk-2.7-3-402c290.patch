@@ -1,0 +1,30 @@
+diff --git a/dxvk/dxvk-2.7-3-402c290.yml b/dxvk/dxvk-2.7-3-402c290.yml
+new file mode 100644
+index 0000000..acae9fc
+--- /dev/null
++++ b/dxvk/dxvk-2.7-3-402c290.yml
+@@ -0,0 +1,10 @@
++Name: dxvk-2.7-3-402c290
++Provider: doitsujin
++Maintainer: CI
++Channel: unstable
++File:
++- file_name: dxvk-2.7-3-402c290.tar.gz
++  url: https://github.com/EvoXCX/components/releases/download/dxvk-2.7-3-402c290/dxvk-2.7-3-402c290.tar.gz
++  file_checksum: 819fa9107735efbc65eb89e5dfd0fa9e
++  file_size: 10307561
++  rename: dxvk-2.7-3-402c290.tar.gz
+diff --git a/input_files/14-dxvk.yml b/input_files/14-dxvk.yml
+index 72a97a8..4c3d22c 100644
+--- a/input_files/14-dxvk.yml
++++ b/input_files/14-dxvk.yml
+@@ -1,7 +1,7 @@
+-dxvk-2.7-2-c3125fe:
++dxvk-2.7-3-402c290:
+   Category: dxvk
+   Channel: unstable
+-  Date: '1754688300'
++  Date: '1756039649'
+ dxvk-2.7:
+   Category: dxvk
+   Channel: stable
