@@ -1,0 +1,27 @@
+diff --git a/input_files/18-proton-EM.yml b/input_files/18-proton-EM.yml
+new file mode 100644
+index 0000000..d56fd70
+--- /dev/null
++++ b/input_files/18-proton-EM.yml
+@@ -0,0 +1,5 @@
++proton-em-10.0-32:
++  Category: runners
++  Sub-category: proton
++  Channel: stable
++  Date: '1763330873'
+diff --git a/runners/proton/proton-em-10.0-32.yml b/runners/proton/proton-em-10.0-32.yml
+new file mode 100644
+index 0000000..d5293a4
+--- /dev/null
++++ b/runners/proton/proton-em-10.0-32.yml
+@@ -0,0 +1,10 @@
++Name: proton-em-10.0-32
++Provider: Etaash-mathamsetty
++Maintainer: CI
++Channel: stable
++File:
++- file_name: proton-EM-10.0-32.tar.xz
++  url: https://github.com/Etaash-mathamsetty/Proton/releases/download/EM-10.0-32/proton-EM-10.0-32.tar.xz
++  file_checksum: 20e66404db153a5d964d4e585f4d2871
++  file_size: 340875788
++  rename: proton-EM-10.0-32.tar.xz
