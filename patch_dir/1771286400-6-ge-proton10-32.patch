@@ -1,0 +1,33 @@
+diff --git a/input_files/10-GE-Proton.yml b/input_files/10-GE-Proton.yml
+index 21c791d..37320ff 100644
+--- a/input_files/10-GE-Proton.yml
++++ b/input_files/10-GE-Proton.yml
+@@ -1,3 +1,8 @@
++ge-proton10-32:
++  Category: runners
++  Sub-category: proton
++  Channel: stable
++  Date: '1771256209'
+ ge-proton10-31:
+   Category: runners
+   Sub-category: proton
+diff --git a/runners/proton/ge-proton10-32.yml b/runners/proton/ge-proton10-32.yml
+new file mode 100644
+index 0000000..6ea2eea
+--- /dev/null
++++ b/runners/proton/ge-proton10-32.yml
+@@ -0,0 +1,14 @@
++Name: ge-proton10-32
++Provider: GloriousEggroll
++Maintainer: CI
++Channel: stable
++File:
++- file_name: GE-Proton10-32.tar.gz
++  url: https://github.com/GloriousEggroll/proton-ge-custom/releases/download/GE-Proton10-32/GE-Proton10-32.tar.gz
++  file_checksum: 9b7be858946694b16296879ca2678ede
++  file_size: 515874267
++  rename: GE-Proton10-32.tar.gz
++Post:
++- action: rename
++  source: GE-Proton10-32
++  dest: ge-proton10-32
