@@ -1,0 +1,10 @@
+Name: dxvk-2.7.1-11-8e6a2db
+Provider: doitsujin
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: dxvk-2.7.1-11-8e6a2db.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/dxvk-2.7.1-11-8e6a2db/dxvk-2.7.1-11-8e6a2db.tar.gz
+  file_checksum: 06051c7e3670d7292dbf955c3b179baa
+  file_size: 15970015
+  rename: dxvk-2.7.1-11-8e6a2db.tar.gz
