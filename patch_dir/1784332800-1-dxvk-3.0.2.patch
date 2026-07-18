@@ -1,0 +1,28 @@
+diff --git a/dxvk/dxvk-3.0.2.yml b/dxvk/dxvk-3.0.2.yml
+new file mode 100644
+index 0000000..368143f
+--- /dev/null
++++ b/dxvk/dxvk-3.0.2.yml
+@@ -0,0 +1,10 @@
++Name: dxvk-3.0.2
++Provider: doitsujin
++Maintainer: CI
++Channel: stable
++File:
++- file_name: dxvk-3.0.2.tar.gz
++  url: https://github.com/doitsujin/dxvk/releases/download/v3.0.2/dxvk-3.0.2.tar.gz
++  file_checksum: 98bbb353fe6c10a2d2608d7cbc6335dc
++  file_size: 17999049
++  rename: dxvk-3.0.2.tar.gz
+diff --git a/input_files/14-dxvk.yml b/input_files/14-dxvk.yml
+index e77e99b..d2e53ba 100644
+--- a/input_files/14-dxvk.yml
++++ b/input_files/14-dxvk.yml
+@@ -1,3 +1,7 @@
++dxvk-3.0.2:
++  Category: dxvk
++  Channel: stable
++  Date: '1784327860'
+ dxvk-3.0.1:
+   Category: dxvk
+   Channel: stable
