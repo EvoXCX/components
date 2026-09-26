@@ -1376,6 +1376,21 @@ kron4ek-wine-11.18-staging-tkg-amd64:
   Sub-category: wine
   Channel: stable
   Date: '1789842434'
+kron4ek-wine-11.18-amd64:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1789842184'
+kron4ek-wine-11.18-staging-amd64:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1789842339'
+kron4ek-wine-11.18-staging-tkg-amd64:
+  Category: runners
+  Sub-category: wine
+  Channel: stable
+  Date: '1789842434'
 kron4ek-wine-11.17-amd64:
   Category: runners
   Sub-category: wine
@@ -3168,10 +3183,10 @@ kron4ek-wine-6.3-proton-experimental-1b31393-amd64:
 
 # ./input_files/13-vkd3d-proton.yml
 # -----------------------
-vkd3d-proton-3.0.1-7-0bd1035:
+vkd3d-proton-3.0.1-8-472989a:
   Category: vkd3d
   Channel: unstable
-  Date: '1789033330'
+  Date: '1790323997'
 vkd3d-proton-3.0.1:
   Category: vkd3d
   Channel: stable
