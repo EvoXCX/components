@@ -1,0 +1,10 @@
+Name: dxvk-3.1.1-1-d30be2b
+Provider: doitsujin
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: dxvk-3.1.1-1-d30be2b.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/dxvk-3.1.1-1-d30be2b/dxvk-3.1.1-1-d30be2b.tar.gz
+  file_checksum: 1fb6f940a29d4f131c7afa9657fe93c6
+  file_size: 18144146
+  rename: dxvk-3.1.1-1-d30be2b.tar.gz
