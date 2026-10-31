@@ -1,7 +1,7 @@
-vkd3d-proton-3.0.1-7-0bd1035:
+vkd3d-proton-3.1:
   Category: vkd3d
-  Channel: unstable
-  Date: '1789033330'
+  Channel: stable
+  Date: '1793182781'
 vkd3d-proton-3.0.1:
   Category: vkd3d
   Channel: stable
