@@ -1,0 +1,10 @@
+Name: vkd3d-proton-3.0.1-8-472989a
+Provider: HansKristian-Work
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: vkd3d-proton-3.0.1-8-472989a.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-3.0.1-8-472989a/vkd3d-proton-3.0.1-8-472989a.tar.gz
+  file_checksum: b6eaa00324613bc30f42bf385f171730
+  file_size: 9596446
+  rename: vkd3d-proton-3.0.1-8-472989a.tar.gz
