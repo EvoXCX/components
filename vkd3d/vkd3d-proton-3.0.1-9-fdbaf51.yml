@@ -1,0 +1,10 @@
+Name: vkd3d-proton-3.0.1-9-fdbaf51
+Provider: HansKristian-Work
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: vkd3d-proton-3.0.1-9-fdbaf51.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-3.0.1-9-fdbaf51/vkd3d-proton-3.0.1-9-fdbaf51.tar.gz
+  file_checksum: 70c3c2a0f6b2870f7e6a1312f35116af
+  file_size: 9624310
+  rename: vkd3d-proton-3.0.1-9-fdbaf51.tar.gz
