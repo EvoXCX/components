@@ -1,0 +1,10 @@
+Name: vkd3d-proton-3.1-1-e54da18
+Provider: HansKristian-Work
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: vkd3d-proton-3.1-1-e54da18.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-3.1-1-e54da18/vkd3d-proton-3.1-1-e54da18.tar.gz
+  file_checksum: 74a5aa8aa33c7d994b7eefe073137d93
+  file_size: 10030781
+  rename: vkd3d-proton-3.1-1-e54da18.tar.gz
