@@ -1,0 +1,10 @@
+Name: vkd3d-proton-3.1
+Provider: HansKristian-Work
+Maintainer: CI
+Channel: stable
+File:
+- file_name: vkd3d-proton-3.1.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-3.1/vkd3d-proton-3.1.tar.gz
+  file_checksum: 5eea6992e5d15e8a2e32099064c14521
+  file_size: 5750633
+  rename: vkd3d-proton-3.1.tar.gz
