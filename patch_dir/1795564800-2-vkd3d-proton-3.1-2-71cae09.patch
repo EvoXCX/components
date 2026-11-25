@@ -1,0 +1,30 @@
+diff --git a/input_files/13-vkd3d-proton.yml b/input_files/13-vkd3d-proton.yml
+index e6c84ca..bd5bece 100644
+--- a/input_files/13-vkd3d-proton.yml
++++ b/input_files/13-vkd3d-proton.yml
+@@ -1,7 +1,7 @@
+-vkd3d-proton-3.1-1-e54da18:
++vkd3d-proton-3.1-2-71cae09:
+   Category: vkd3d
+   Channel: unstable
+-  Date: '1794404427'
++  Date: '1795618168'
+ vkd3d-proton-3.1:
+   Category: vkd3d
+   Channel: stable
+diff --git a/vkd3d/vkd3d-proton-3.1-2-71cae09.yml b/vkd3d/vkd3d-proton-3.1-2-71cae09.yml
+new file mode 100644
+index 0000000..f76369e
+--- /dev/null
++++ b/vkd3d/vkd3d-proton-3.1-2-71cae09.yml
+@@ -0,0 +1,10 @@
++Name: vkd3d-proton-3.1-2-71cae09
++Provider: HansKristian-Work
++Maintainer: CI
++Channel: unstable
++File:
++- file_name: vkd3d-proton-3.1-2-71cae09.tar.gz
++  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-3.1-2-71cae09/vkd3d-proton-3.1-2-71cae09.tar.gz
++  file_checksum: 045e7f4b11b379d5c2de760901d575a3
++  file_size: 9758348
++  rename: vkd3d-proton-3.1-2-71cae09.tar.gz
