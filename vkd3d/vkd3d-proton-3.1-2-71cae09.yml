@@ -1,0 +1,10 @@
+Name: vkd3d-proton-3.1-2-71cae09
+Provider: HansKristian-Work
+Maintainer: CI
+Channel: unstable
+File:
+- file_name: vkd3d-proton-3.1-2-71cae09.tar.gz
+  url: https://github.com/EvoXCX/components/releases/download/vkd3d-proton-3.1-2-71cae09/vkd3d-proton-3.1-2-71cae09.tar.gz
+  file_checksum: 045e7f4b11b379d5c2de760901d575a3
+  file_size: 9758348
+  rename: vkd3d-proton-3.1-2-71cae09.tar.gz
